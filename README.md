@@ -42,7 +42,7 @@ Pinata Integration: Add an upload button to the React UI for heavy documents lik
 
 IPFS Hashing: Configure the system to upload the file to IPFS, grab the returned cryptographic hash, and save only that hash to our smart contract.
 
-Progress — where we are now
+Progress where we are now
 
 I built the core CoffeeTrace app and upgraded it through several iterations. Below is the current, concise owner-facing status.
 
